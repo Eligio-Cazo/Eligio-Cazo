@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eligio-Cazo Civil Engineer from Asuncion Paraguay.
-- 👀 I’m interested in VBA for Ms Oficce,VBA foa AutoCAD, Lisp, VB.NET, SQL
+- 👀 I’m interested in VBA for Ms Oficce,VBA for AutoCAD, Lisp, VB.NET, SQL
 - 🌱 I’m currently learning Python, pyatocad
 - 💞️ I’m looking to collaborate on VBA
 - 📫 How to reach me, ezcazo@gmail.com
